@@ -1,0 +1,34 @@
+[
+  {
+    "id": "jellyfish-merkle-tree-quint",
+    "title": "Case Study: Formalizing Grug's Jellyfish Merkle Tree with Quint",
+    "slug": "",
+    "excerpt": "Case study written with my colleagues Gabriela and Josef for [0]. A technical exploration of formally specifying the Jellyfish Merkle Tree data structure using Quint. We break down the space-efficient sparse Merkle tree implementation originally designed for Left Curve's [1], translating its complex operations into formal specifications for better understanding and verification.",
+    "date": "2025-03-5",
+    "readTime": "8 min read",
+    "tags": ["Security", "Rust", "Data Structures", "Merkle Trees"],
+    "featured": true,
+    "external": true,
+    "url": "https://informal.systems/blog/jellyfish-merkle-tree-quint-2025",
+    "links": [
+      { "text": "Informal Systems", "url": "https://informal.systems", "external": true },
+      { "text": "Grug", "url": "https://grug.build/", "external": true }
+    ]
+  },
+  {
+    "id": "mbt-neutron-migration",
+    "title": "Case Study: Using Model-Based Testing with Quint to Secure Neutron's Liquidity Pool Migration",
+    "slug": "",
+    "excerpt": "Case study written with my colleague Ivan for [0]. How we used formal specification and model-based testing to verify the correctness of a critical liquidity pool migration for [1], the first consumer chain on Cosmos Hub. A deep dive into applying Quint for protocol verification in production systems.",
+    "date": "2024-12-11",
+    "readTime": "12 min read",
+    "tags": ["Security", "Rust", "Formal Methods", "Model-based Testing", "Quint"],
+    "featured": true,
+    "external": true,
+    "url": "https://informal.systems/blog/model-based-testing-to-secure-neutrons-liquidity",
+    "links": [
+      { "text": "Informal Systems", "url": "https://informal.systems", "external": true },
+      { "text": "Neutron", "url": "https://neutron.org", "external": true }
+    ]
+  }
+]

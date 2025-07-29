@@ -68,6 +68,24 @@ a:hover {
   border-bottom-color: #e5e5e5;
 }
 
+/* Links within blog excerpts */
+.text-gray-700 a {
+  color: #0066cc;
+  font-weight: 500;
+}
+
+.text-gray-700 a:hover {
+  color: #0052a3;
+}
+
+.dark .text-gray-700 a {
+  color: #66b3ff;
+}
+
+.dark .text-gray-700 a:hover {
+  color: #4da6ff;
+}
+
 .link-subtle {
   color: #666666;
   border-bottom: 1px solid #e5e5e5;
