@@ -2,8 +2,11 @@ import "./globals.css";
 import { ThemeProvider } from "@/components/ThemeProvider";
 
 export const metadata = {
-  title: "Aleksandar",
-  description: "Software Engineer & Developer",
+  title: "Aleksandar Ignjatijevic",
+  description: "Security Engineer & Software Engineer",
+  icons: {
+    icon: '/favicon.ico',
+  },
 };
 
 export default function RootLayout({ children }) {

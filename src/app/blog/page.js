@@ -3,7 +3,7 @@ import { getAllPosts } from '@/lib/blog';
 import BlogItem from '@/components/BlogItem';
 
 export const metadata = {
-  title: 'Blog - Aleksandar',
+  title: 'Blog - Aleksandar Ignjatijevic',
   description: 'Thoughts on security engineering, blockchain protocols, and software development',
 };
 
