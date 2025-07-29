@@ -3,6 +3,7 @@ import WorkItem from "@/components/WorkItem";
 import ProjectItem from "@/components/ProjectItem";
 import BlogItem from "@/components/BlogItem";
 import { getRecentPosts } from "@/lib/blog";
+import Link from 'next/link';
 
 export default function Home() {
   const blogPosts = getRecentPosts(3); // Get 3 most recent posts
@@ -78,7 +79,7 @@ export default function Home() {
             <BlogItem key={post.id} {...post} />
           ))}
           <div className="text-sm text-gray-600 mt-8">
-            <a href="/blog" className="link-subtle">View all posts →</a>
+            <Link href="/blog" className="link-subtle">View all posts →</Link>
           </div>
         </section>
 
