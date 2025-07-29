@@ -85,12 +85,12 @@ export default function BlogItem({ title, excerpt, date, readTime, tags, url, fe
             </Link>
           )}
           {featured && (
-            <span className="inline-block ml-2 px-2 py-1 text-xs bg-gray-100 dark:bg-gray-800 rounded-full mono">
+            <span className="inline-block ml-2 px-2 py-1 text-xs bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 rounded-full mono">
               Featured
             </span>
           )}
           {external && (
-            <span className="inline-block ml-2 px-2 py-1 text-xs bg-gray-100 dark:bg-gray-800 rounded-full mono">
+            <span className="inline-block ml-2 px-2 py-1 text-xs bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 rounded-full mono">
               Informal Systems
             </span>
           )}
