@@ -97,12 +97,8 @@ export default function Home() {
             </div>
             <div className="flex space-x-6 text-sm mt-4">
               <a href="https://farcaster.xyz/oakenknight" className="link-subtle">Farcaster</a>
-              <a href="https://x.com/aleksandarignj" className="link-subtle">X</a>
-              <a href="https://linkedin.com/in/aleksandar-ignjatijevic" className="link-subtle">LinkedIn</a>
+              <a href="https://x.com/oakenknight19" className="link-subtle">X</a>
               <a href="https://github.com/oakenknight" className="link-subtle">Github</a>
-              <a href="mailto:a.ignjatijevic@gmail.com" className="link-subtle">
-                a.ignjatijevic@gmail.com
-              </a>
             </div>
           </div>
         </section>
@@ -110,7 +106,7 @@ export default function Home() {
         {/* Footer */}
         <footer className="border-t border-gray-200 pt-8 mt-16">
           <div className="text-sm text-gray-500 text-center">
-            <p>&copy; 2025 Aleksandar Ignjatijevic. All rights reserved.</p>
+            <p>&copy; 2025 Oakenknight. All rights reserved.</p>
           </div>
         </footer>
       </main>
