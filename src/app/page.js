@@ -96,9 +96,10 @@ export default function Home() {
 
             </div>
             <div className="flex space-x-6 text-sm mt-4">
-              <a href="https://farcaster.xyz/oakenknight" className="link-subtle">Farcaster</a>
               <a href="https://x.com/oakenknight19" className="link-subtle">X</a>
               <a href="https://github.com/oakenknight" className="link-subtle">Github</a>
+              <a href="https://linkedin.com/in/aleksandar-ignjatijevic/" className="link-subtle">LinkedIn</a>
+              <a href="https://farcaster.xyz/oakenknight" className="link-subtle">Farcaster</a>
             </div>
           </div>
         </section>
