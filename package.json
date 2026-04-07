@@ -12,15 +12,16 @@
     "deploy-manual": "npm run build && touch out/.nojekyll && git add out/ && git commit -m \"Deploy to GitHub Pages\" && git subtree push --prefix out origin gh-pages"
   },
   "dependencies": {
+    "next": "15.4.4",
     "react": "19.1.0",
     "react-dom": "19.1.0",
-    "next": "15.4.4"
+    "react-markdown": "^10.1.0"
   },
   "devDependencies": {
+    "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4",
     "eslint": "^9",
     "eslint-config-next": "15.4.4",
-    "@eslint/eslintrc": "^3"
+    "tailwindcss": "^4"
   }
 }

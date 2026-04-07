@@ -1,5 +1,18 @@
 [
   {
+    "id": "how-naval-taught-me-to-read-without-guilt",
+    "title": "How Naval taught me to read without guilt",
+    "slug": "how-naval-taught-me-to-read-without-guilt",
+    "excerpt": "On quitting books without shame, Naval Ravikant's read-like-you-browse model, and how dropping the wrong book made room for the right one.",
+    "date": "2026-04-07",
+    "readTime": "6 min read",
+    "tags": ["Reading", "Books", "Personal"],
+    "featured": false,
+    "external": false,
+    "url": "/blog/how-naval-taught-me-to-read-without-guilt",
+    "markdownFile": "how-naval-taught-me-to-read-without-guilt.md"
+  },
+  {
     "id": "jellyfish-merkle-tree-quint",
     "title": "Case Study: Formalizing Grug's Jellyfish Merkle Tree with Quint",
     "slug": "jellyfish-merkle-tree-quint",
