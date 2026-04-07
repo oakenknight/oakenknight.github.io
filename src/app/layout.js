@@ -3,7 +3,8 @@ import { ThemeProvider } from "@/components/ThemeProvider";
 
 export const metadata = {
   title: "Aleksandar Ignjatijevic",
-  description: "Security Engineer & Software Engineer",
+  description:
+    "Security engineer at Informal Systems; building around Quint, executable specification, and blockchain protocol security.",
   icons: {
     icon: '/favicon.ico',
   },

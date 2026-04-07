@@ -42,16 +42,18 @@ export default function Home() {
         <header className="mb-16">
           <h1 className="text-2xl font-bold mono mb-4">Aleksandar</h1>
           <p className="text-lg text-gray-600 mb-6">
-            Security Researcher & Engineer
+            Security Engineer
           </p>
           <p className="text-gray-700 leading-relaxed mb-8">
-            Hi! I'm a security engineer at Informal Systems who loves building things that actually work — and stay secure while doing it.
+            Hi! I'm at Informal Systems, on the team building a product around{" "}
+            <a href="https://quint-lang.org" className="link-subtle">Quint</a>
+            {" "}— Informal's executable specification language — so executable specs stay at the center of how teams design, test, and verify protocols.
             <br /><br />
-            I spend my days working with Go, Rust, and Solidity, helping teams audit smart contracts and strengthen blockchain protocols. Much of my work happens in the Cosmos and Ethereum ecosystems, where I hunt for vulnerabilities, write formal specifications, and think deeply about how protocols should be designed.
+            I still work hands-on with Go, Rust, and Solidity: auditing smart contracts, strengthening blockchain protocols, and writing formal specifications. A lot of that sits in the Cosmos and Ethereum ecosystems, where I hunt for vulnerabilities, model tricky edge cases, and think about how protocols ought to behave.
             <br /><br />
             I have worked with many of our partners including Neutron, dYdX, Stride and clients such as Apex and Left Curve, and more, performing audits as well writing formal specifications and performing model-based testing on their protocols. Public audit reports I've worked on can be found under <a href="https://github.com/informalsystems/audits" className="link-subtle">Informal Systems' GitHub organization</a>.
             <br /><br />
-            When I'm not breaking things (intentionally), you'll find me building internal tools and learning cool new stuff. Whether it's a Rust consensus engine, a Solidity smart contract, or diving into formal methods, I'm driven by one goal: creating secure-by-design systems that can scale across chains.
+            When I'm not breaking things (intentionally), you'll find me building tools, learning cool new stuff, and reading. Whether it's a Rust consensus engine, a Solidity smart contract, or pushing on Quint and formal methods, I'm driven by one goal: creating secure-by-design systems that can scale across chains.
             <br /><br />
             My journey into blockchain started during my Master's in High Performance Computing at the Faculty of Technical Sciences, University of Novi Sad, where I developed a blockchain-based distributed system for grading assignments. Before diving full-time into security engineering, I spent a couple of years teaching Computer Architecture and Compilers at my alma mater — mentoring students through systems programming and compiler construction.
             <br /><br />
