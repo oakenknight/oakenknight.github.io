@@ -45,7 +45,7 @@ export default function Home() {
             Security Researcher & Engineer
           </p>
           <p className="text-gray-700 leading-relaxed mb-8">
-            Hi! I'm a security researcher and engineer at Informal Systems, on the team building a product around{" "}
+            Hi! I'm a security researcher and engineer at Informal Systems, on the team building things around{" "}
             <a href="https://quint-lang.org" className="link-subtle">Quint</a>
             {" "}— Informal's executable specification language — so executable specs stay at the center of how teams design, test, and verify protocols.
             <br /><br />
